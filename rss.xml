@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[motors-deluxe]]></title>
+        <description><![CDATA[motors-deluxe]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 25 Apr 2016 14:36:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hello Bikers!!!!!!!!!</p>]]></description>
+            <link>undefinedhello-bikers/index.html</link>
+            <guid isPermaLink="false">b45aa321-f7d1-4f32-9e02-3434e44cf163</guid>
+            <pubDate>Mon, 25 Apr 2016 14:34:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
