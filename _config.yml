@@ -1,0 +1,28 @@
+name: motors-deluxe
+favicon: null
+layout_spectrum: 0.3282672024797648
+typography_spectrum: 0.7308316079434007
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7695395625196397
+  lightness: 0.8494875475298613
+  saturation: 0.4678141155745834
+  rhythmicContrast: 0.7390268507879227
+purpose: []
